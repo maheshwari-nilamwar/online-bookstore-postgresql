@@ -59,8 +59,8 @@ The project includes database creation, data import, SQL queries, and business i
 ## Tools Used
 
 * PostgreSQL
-* SQL
-* GitHub
+
+
 
 ## Author
 
